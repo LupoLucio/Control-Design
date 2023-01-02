@@ -1,3 +1,4 @@
 # Control-Design
 progettazione controllore
-fatt da Farinati Ceccolin
+fattA da Farinati Ceccolin
+testo tesina su TESINA_CA_2022.pdf
